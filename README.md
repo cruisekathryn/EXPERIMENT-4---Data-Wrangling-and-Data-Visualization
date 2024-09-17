@@ -9,7 +9,7 @@ Section: **2ECE-A**
 > Download the ECE Board Exam 2 dataset found on this link: [bit.ly/ECEBoardExamDataset](url) and write a Python script/code in the Jupyter Notebook to do the given problems. You may submit your Jupyter notebook in the dedicated submission bin.
 
 ## **ECE BOARD EXAM PROBLEM**  
-Using ata wrangling and data visualization technique with storytelling, analyze the data and present different (i) data frames; and (ii) visuals using the dataset given.  
+Using data wrangling and data visualization technique with storytelling, analyze the data and present different (i) data frames; and (ii) visuals using the dataset given.  
 
 ## Solution  
 ### 1. Create the following data frames based on the format provided:
@@ -112,6 +112,7 @@ boards.boxplot(column='Average', by='Gender')
 ## Version History
 * 1.02
   * README File has been updated
+    * Fixed grammatical and typographical errors
 * 1.01
   * An initial draft of the README File has been updated
   * Jupyter Notebook File has been uploaded
