@@ -108,3 +108,12 @@ boards.boxplot(column='Average', by='Gender')
 </p>   
 
 **The boxplot shows that female examinees has lower median but had the highest average. On thee other hand, male examinees has higher median but with an outlier.**
+
+## Version History
+* 1.02
+  * README File has been updated
+* 1.01
+  * An initial draft of the README File has been updated
+  * Jupyter Notebook File has been uploaded
+* 1.00
+  * An initial draft of the Jupyter Notebook File has been uploaded
