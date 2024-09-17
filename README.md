@@ -74,6 +74,7 @@ Where the result will be:
 ### 2. Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?  
 >[!NOTE]
 > Boxplot was utilized in the given data because it effectiveely shows the distribution of data between multiple categories.
+
 Importing necessary libraries to effectively create visualizations  
 ```python
 import matplotlib.pyplot as plt
