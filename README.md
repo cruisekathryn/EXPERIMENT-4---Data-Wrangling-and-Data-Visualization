@@ -81,7 +81,7 @@ import matplotlib.pyplot as plt
 ```
 #### Boxplot Grouped by Track  
 ```python
-import matplotlib.pyplot as plt
+boards.boxplot(column='Average', by='Track')
 ```  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a87ab502-0c57-4dfe-bdb7-3aeef217ad3c", alt="Mindy_result">
@@ -91,7 +91,7 @@ import matplotlib.pyplot as plt
 
 #### Boxplot Grouped by Hometown
 ```python
-boards.boxplot(column='Average', by='Track')
+boards.boxplot(column='Average', by='Hometown')
 ```
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4ad59ecc-ac8a-4afb-9eb4-658aeeba2598", alt="Mindy_result">
